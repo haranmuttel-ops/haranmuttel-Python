@@ -24,25 +24,33 @@ Creating new columns
 
 Exporting data
 
-Python Logic (FizzBuzz)
+# Python Logic (FizzBuzz)
 
-I wrote a Python program that prints numbers 1–100 with rules.
+I wrote a simple Python program that prints numbers 1–100 with classic FizzBuzz rules:
 
-This helped me learn:
+Print “Fizz” for multiples of 3
 
-Loops
+Print “Buzz” for multiples of 5
 
-Conditions
+Print “FizzBuzz” for multiples of both
 
-Modulo
+Otherwise print the number
+
+💡 What I learned
+
+Loops (for)
+
+Conditions (if/elif/else)
+
+Modulo operator (%)
 
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-12%20142225.png)
 
-Student Dataset Analysis
+# Student Dataset Analysis
 
 I loaded and explored student data.
 
-Tasks:
+# Tasks:
 
 Read CSV
 
@@ -61,7 +69,7 @@ This helped me understand how real datasets work.
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20141845.png)
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20143746.png)
 
-Data Aggregation
+# Data Aggregation
 
 I grouped data to find averages like:
 
@@ -73,7 +81,7 @@ This shows basic statistical analysis.
 
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20142146.png)
 
-GDP Dataset Analysis
+# GDP Dataset Analysis
 
 I analysed country GDP per capita.
 
@@ -90,7 +98,7 @@ This shows global economic patterns.
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20142226.png)
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20143235.png)
 
-What I learned overall
+# What I learned overall
 
 This project helped me learn how to analyse and transform data using Python and Pandas.
 
