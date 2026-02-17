@@ -1,10 +1,10 @@
-Hi, I’m Haran 👋
+# Hi, I’m Haran 👋
 This project shows my Python and Pandas data analysis work from my Data Technician course.
 
 What I did
 I worked with datasets using Python to clean, analyse, and summarise data.
 
-Datasets used:
+# Datasets used:
 
 Student data
 
