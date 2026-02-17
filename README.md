@@ -60,8 +60,8 @@ Group data
 This helped me understand how real datasets work.
 
 ![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20141845.png)
-![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20141951.png)
-![Portrait of an online instructor]
+![Portrait of an online instructor](https://github.com/haranmuttel-ops/haranmuttel-Python/blob/main/Screenshot%202026-02-17%20143746.png)
+
 Data Aggregation
 
 I grouped data to find averages like:
